@@ -1,0 +1,86 @@
+/* here you can put your own css to customize and override the theme */
+
+/***
+Rounded Portlets
+***/
+/*
+.portlet {
+	border-radius: 4px !important;
+}
+
+.portlet .portlet-title {
+	border-radius: 4px 4px 0px 0px !important;
+}
+
+.portlet .portlet-body,
+.portlet .portlet-body .form-actions  {
+	border-radius: 0px 0px 4px 4px !important;
+}
+*/
+.form-horizontal .control-label{
+    padding: 7px 0px;
+}
+.paginat{
+	text-align: center !important;
+}
+.btn {
+    border-radius: 0px !important;
+}
+h1,h2,h3,h4,h5,h6{
+   font-family: "Yekan", sans-serif;
+}
+.fa-exclamation{
+	color: #F3565D
+}
+.row2{
+	display: none;
+}
+.miultiple-controller [class*=" fa-"]{
+	font-size: 23px !important;
+	color: #00B3AA !important;
+	margin:10px 2px;
+	cursor: pointer;
+}
+.search-holder{
+	background-color: #eee;
+	border:1px solid #ccc;
+	padding:15px 0px;
+}
+.ltr{
+	direction: ltr;
+}
+.tree-holder{
+	background: #fff;
+	border:1px solid #ccc;
+	height:208px;
+}
+.form-body .tree-holder{
+	height: 138px;
+}
+.archive-search{
+	list-style-type: none;
+}
+dl{
+	padding-right: 10px;
+}
+.form-body > div{
+	padding:10px 20px;
+}
+h1.logo{
+	font-size:20px;
+	color: #eee;
+	margin-top:10px;
+}
+.search-holder{
+	display: none;
+}
+.chart-labale{
+	font-size: 14px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+.chart-body{
+	border: 1px solid #0DBBBC;
+	margin-top: 15px;
+	padding: 10px;
+}

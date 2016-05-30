@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"fo",
+				"for	for …"
+			],
+			[
+				"tri",
+				"triangle"
+			],
+			[
+				"f",
+				"form	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"di",
+				"direction"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"by",
+				"BY"
+			],
+			[
+				"query",
+				"query_run"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"book",
+				"book_id"
+			],
+			[
+				"reser",
+				"reserve_id"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"reserve",
+				"reserved"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"quer",
+				"query_run"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"first",
+				"first_query_row"
+			],
+			[
+				"fir",
+				"first_query_row"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"mai",
+				"main"
+			],
+			[
+				"ت",
+				"تکرار"
+			],
+			[
+				"pass",
+				"pass_result"
+			],
+			[
+				"pas",
+				"password_result"
+			],
+			[
+				"co",
+				"corrunt_pass"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"su",
+				"submit	.submit()"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"query_",
+				"query_row"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"db",
+				"db_password"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"te",
+				"text_color"
+			],
+			[
+				"imagel",
+				"imageline"
+			],
+			[
+				"imagett",
+				"imagettftext"
+			],
+			[
+				"ca",
+				"captcha"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"o",
+				"option	Tag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"l",
+				"legend	Tag"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"re",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"admin",
+				"admin"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"to",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"me",
+				"menu"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"sli",
+				"slideDown	.slideDown()"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"slid",
+				"slideUp	.slideUp()"
+			],
+			[
+				"red",
+				"ready	$(document).ready"
+			],
+			[
+				"sil",
+				"slider"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"fa",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"fun",
+				"focusin	.focusin()"
+			],
+			[
+				"sub",
+				"submenu"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"animate",
+				"animate	.animate()"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"w",
+				"width	.width()"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"java",
+				"javascript"
+			],
+			[
+				"ele",
+				"element_name"
+			],
+			[
+				"elemen",
+				"element_count"
+			],
+			[
+				"lt",
+				"length"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"res",
+				"resize	.resize()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ani",
+				"animate	.animate()"
+			],
+			[
+				"get",
+				"getname"
+			],
+			[
+				"st",
+				"style	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"col",
+				"Snippet: bs3-col-4"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"jqu",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"row",
+				"Snippet: bs3-row"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/laravel/public/triangle/for.php",
+		"/C/xampp/htdocs/laravel/public/triangle/test.php",
+		"/C/xampp/htdocs/laravel/config/app.php",
+		"/C/xampp/htdocs/laravel/composer.json",
+		"/C/xampp/htdocs/laravel/public/ramin/dbconnect.php",
+		"/C/xampp/htdocs/laravel/public/mosalas/test.php",
+		"/C/xampp/htdocs/laravel/public/ramin/result.css",
+		"/C/xampp/htdocs/laravel/public/ramin/test2.php",
+		"/C/xampp/htdocs/laravel/public/ramin/test2.html",
+		"/C/xampp/htdocs/laravel/public/ramin/change-password.php",
+		"/C/xampp/htdocs/laravel/public/ramin/result.php",
+		"/C/xampp/htdocs/laravel/public/ramin/login.php",
+		"/C/Users/peyman/Desktop/apache-maven-3.3.3/bin/m2.conf",
+		"/C/xampp/htdocs/laravel/public/ramin/aboutus.html",
+		"/C/xampp/htdocs/laravel/public/ramin/main.php",
+		"/C/xampp/htdocs/laravel/public/ramin/main.css",
+		"/C/xampp/htdocs/laravel/public/ramin/adress.html",
+		"/C/xampp/htdocs/laravel/public/ramin/history.php",
+		"/C/xampp/htdocs/laravel/public/ramin/myreserves.php",
+		"/C/xampp/htdocs/laravel/public/ramin/logout.php",
+		"/C/xampp/htdocs/laravel/public/ramin/index.php",
+		"/C/xampp/htdocs/laravel/public/login.php",
+		"/C/xampp/htdocs/laravel/public/ramin/change_password_result.php",
+		"/C/xampp/htdocs/laravel/public/ramin/theme.php",
+		"/C/xampp/htdocs/laravel/public/ramin/signup.php",
+		"/C/xampp/htdocs/laravel/public/ramin/signup.html",
+		"/C/xampp/htdocs/laravel/public/ramin/login(2).php",
+		"/C/xampp/htdocs/laravel/public/ramin/login.html",
+		"/C/xampp/htdocs/laravel/public/ramin/change-password",
+		"/C/xampp/htdocs/laravel/public/ramin/changepassword.php",
+		"/C/xampp/htdocs/laravel/public/ramin/useraccount_management/changepassword.php",
+		"/C/xampp/htdocs/laravel/public/ramin/main.html",
+		"/C/xampp/htdocs/laravel/public/ajax/index.html",
+		"/C/xampp/htdocs/laravel/public/ajax/jquery.js",
+		"/C/xampp/htdocs/laravel/public/ramin/asd.html",
+		"/C/xampp/htdocs/laravel/public/ajax/ajax.php",
+		"/C/xampp/htdocs/laravel/public/ajax/test.php",
+		"/C/xampp/htdocs/laravel/public/ajax/test.html",
+		"/C/Users/peyman/AppData/Local/Temp/Rar$DRa0.654/font-awesome-4.5.0/css/font-awesome.css",
+		"/C/xampp/htdocs/laravel/public/ramin/login-style.css",
+		"/C/xampp/htdocs/laravel/public/ramin/signupnew.php",
+		"/C/xampp/htdocs/laravel/public/captcha.php",
+		"/D/payanname/signup.php",
+		"/C/xampp/htdocs/laravel/public/rand.php",
+		"/C/xampp/htdocs/laravel/public/signup.php",
+		"/D/payanname/signup.html",
+		"/D/payanname/login.html",
+		"/F/payan name/css/bootstrap.css",
+		"/F/payan name/login-style.css",
+		"/F/payan name/signup-style.css",
+		"/F/payan name/signup.html",
+		"/F/payan name/login.php",
+		"/F/payan name/sighnup.html",
+		"/F/payan name/sighnup-style.css",
+		"/C/Users/peyman/Desktop/index/index.html",
+		"/C/Users/peyman/Desktop/index/index.js",
+		"/C/Users/peyman/Desktop/php.ini",
+		"/E/map test/test.html",
+		"/F/outocad/EULA/AdskLicense.ini",
+		"/F/outocad/setup.ini",
+		"/E/java/bootstrap.min.css",
+		"/E/java/style.css",
+		"/E/java/bootstrap.js",
+		"/E/java/test.html",
+		"/C/xampp/htdocs/laravel/resources/lang/fa/panel.php",
+		"/C/xampp/htdocs/laravel/public/admin/assets/global/css/components-rtl.css",
+		"/C/xampp/htdocs/laravel/resources/views/admin_panel/component/product.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/admin_panel/include/content.blade.php",
+		"/C/xampp/htdocs/laravel/app/Http/routes.php",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/Panel/ProductController.php",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/Panel/NewsController.php",
+		"/C/xampp/htdocs/laravel/vendor/symfony/routing/RouteCollection.php",
+		"/C/Users/peyman/Downloads/index.php",
+		"/C/Users/peyman/Downloads/bootstrap.css",
+		"/C/Users/peyman/Downloads/master-cecaadd555933b67e7ca30dd9a8e80d6.css",
+		"/C/Users/peyman/Desktop/htaccess.txt",
+		"/J/metronic 3.6/Metronic 3.6/Metronic 3.6/theme_rtl/templates/admin/index.html",
+		"/D/gantry/gantry.php",
+		"/E/express/igib/views/layout.jade",
+		"/E/express/igib/routes/admin.js",
+		"/E/express/igib/app.js",
+		"/C/xampp/htdocs/laravel/.env",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/Panel/News.php",
+		"/C/xampp/htdocs/laravel/database/migrations/2015_09_18_051921_create_xxnews_table.php",
+		"/C/xampp/htdocs/laravel/app/News.php",
+		"/C/xampp/htdocs/laravel/resources/views/admin_panel/layout.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/admin_panel/include/header.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/admin_panel/include/sidebar.blade.php",
+		"/C/xampp/htdocs/laravel/public/admin/assets/admin/layout/css/layout.css",
+		"/C/xampp/htdocs/laravel/public/admin/assets/admin/layout/css/layout-rtl.css",
+		"/C/xampp/htdocs/laravel/resources/views/admin_panel/component/index.balde.php",
+		"/C/xampp/htdocs/laravel/resources/views/admin_panel/include/quick_sidebar.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/admin_panel/index.blade.php",
+		"/C/xampp/htdocs/laravel/resources/lang/en/panel.php",
+		"/C/xampp/htdocs/laravel/public/admin/assets/admin/layout/css/font-face.css",
+		"/C/xampp/htdocs/testp/test.php",
+		"/C/xampp/htdocs/testp/test.html",
+		"/C/xampp/htdocs/testp/test2.php",
+		"/C/xampp/htdocs/testp/test3.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/E/test p/test.php",
+		"/C/xampp/htdocs/testp/echo.php",
+		"/C/xampp/htdocs/testp/test2.html",
+		"/E/test p/test.html",
+		"/E/phptest/echo test.html",
+		"/E/phptest/echo test.php",
+		"/C/xampp/htdocs/laravel/laravel/config/telegram.php",
+		"/C/xampp/htdocs/laravel/laravel/app/Http/routes.php",
+		"/C/xampp/htdocs/laravel/laravel/config/app.php",
+		"/C/xampp/htdocs/laravel/igib/admin/composer.json",
+		"/C/xampp/htdocs/laravel/laravel/vendor/irazasyed/telegram-bot-sdk/src/Laravel/TelegramServiceProvider.php",
+		"/C/Users/peyman/Desktop/examples/basic-fade/js/jquery.slides.min.js",
+		"/C/Users/peyman/Desktop/examples/basic-fade/index.html",
+		"/C/xampp/mysql/data/mysql.pid",
+		"/C/xampp/mysql/data/auto.cnf",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/Users/peyman/AppData/Local/Temp/Rar$DRa0.957/create_tables.sql",
+		"/C/mvnc/src/main/java/hello/HelloWorld.java",
+		"/C/mvnc/src/main/java/hello/MessageService.java",
+		"/C/mvnc/src/main/java/hello/MessagePrinter.java",
+		"/C/mvnc/src/main/java/hello/Application.java",
+		"/C/mvnc/src/main/java/hello/Greeter.java",
+		"/C/mvnc/pom.xml",
+		"/C/server.js",
+		"/C/spring/build.gradle",
+		"/E/slide/slider.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\laravel\\public\\ramin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ModuleServiceProvider",
+			"ds",
+			"logo",
+			"resu",
+			"table",
+			"topbar",
+			"white",
+			"ثبت",
+			"#4a5b78",
+			"#394963",
+			"pink",
+			"user_id",
+			"ثبت",
+			"time",
+			"ts",
+			"tr",
+			"td",
+			"<td>\n		<tr></tr>\n		<tr></tr>\n		<tr></tr>\n		<tr></tr>\n	</td>",
+			"\n\n",
+			";\n",
+			"green",
+			"%;\n",
+			"()",
+			"\n	",
+			"fieldset",
+			"btn btn-default",
+			"lable",
+			"-webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: cover;",
+			"dro",
+			"row",
+			".dropdown-menu",
+			"php_flag magic_quotes_gpc Off",
+			"src=\"../../",
+			"admin/assets/",
+			"Open Sans",
+			"<!-- BEGIN STYLE CUSTOMIZER -->",
+			"search",
+			"search..",
+			"src=\"../../",
+			"loaded",
+			"start",
+			"complete",
+			"password",
+			"PASSWORD",
+			"password",
+			"PASSWORD",
+			"password",
+			"\n			",
+			"ext",
+			"\");\n",
+			";",
+			"<!DOCTYPE html>\n\n<html lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n    <meta charset=\"utf-8\" />\n    <title></title>\n    <script type=\"text/javascript\">\n    function getname () {\n    	var name , familly , fullname;\n    	name=prompt(\"enter ure fierst name\");\n    	familly=prompt(\"enter ure last name\");\n    	\n    	fullname=name+\" \"+familly;\n    	alert(fullname);\n    }\n    </script>\n   <body onload=\"getname()\">\n\n   </body>\n\n</html>",
+			"cainfo",
+			"ssl",
+			"`"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#6985b5",
+			"#4a5b78",
+			"#394963",
+			"tr",
+			"td",
+			"ts",
+			"#",
+			"src=\"/",
+			"/admin/assets/",
+			"Yekan",
+			"src=\"admin/",
+			"src=\"admin/\n",
+			";\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.php",
+				"config\\app.php"
+			],
+			[
+				"routecollection.php",
+				"vendor\\symfony\\routing\\RouteCollection.php"
+			],
+			[
+				"componen",
+				"public\\admin\\assets\\global\\css\\components-rtl.css"
+			],
+			[
+				"rou",
+				"app\\Http\\routes.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"layout-rt",
+				"public\\admin\\assets\\admin\\layout\\css\\layout-rtl.css"
+			],
+			[
+				"layou",
+				"public\\admin\\assets\\admin\\layout\\css\\layout.css"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"lay",
+				"resources\\views\\admin_panel\\layout.blade.php"
+			],
+			[
+				"components-rtl.css",
+				"public\\admin\\assets\\global\\css\\components-rtl.css"
+			],
+			[
+				"custom-rtl.css",
+				"public\\admin\\assets\\admin\\layout\\css\\custom-rtl.css"
+			],
+			[
+				"telegram.php",
+				"config\\telegram.php"
+			],
+			[
+				"rout",
+				"app\\Http\\routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

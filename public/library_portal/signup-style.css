@@ -1,0 +1,56 @@
+body{
+	
+ 	}
+
+ 	#page-wrapper{
+
+ 	width: 1200px;
+	height: 800px;
+	margin: auto;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+
+	background:url(images/library11.jpg) no-repeat center center;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+
+
+
+#form-wrapper{
+	height: 600px;
+	margin-top: 50px;
+
+}
+
+.input{
+
+	width: 100%;
+	opacity: 0.8;;
+	height: 25px;
+	border:solid 1px black;
+	border-radius: 5px;
+}
+.input:hover,.input:focus{
+	background-color: #F9C68D
+}
+.lable{
+	color: #F9C68D;
+}
+#submit{
+float: right;
+opacity: 0.8;
+	}
+
+#submit:hover{
+	background-color: #F9C68D;
+}
+#submit:focus{
+	background-color: #F9C68D;
+}
+
